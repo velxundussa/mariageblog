@@ -2,5 +2,7 @@
 date = '{{date}}'
 draft = false
 title = '{{title}}'
-author = 'Mel & Hugo'
+author = 'Mel & Hugo
+featuredImage = ''
+featuredImagePreview = ''
 +++

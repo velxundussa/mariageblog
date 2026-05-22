@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-05-20.md",
+                "file": "content/posts/2026-05-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-20"
+              "title": "2026-05-21"
             }
           }
         ]
@@ -194,25 +194,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3e6f94eb82015a2",
+  "active": "9aa55c7d14b6e860",
   "lastOpenFiles": [
+    "images/20260521_100250.jpg",
+    "images/20260521_082053.jpg",
+    "content/posts/2026-05-21.md",
+    "images/20260521_081907.jpg",
     "images/20260520_231915.jpg",
+    "images/20260521_160229.jpg",
+    "images/20260521_113204.jpg",
+    "images/20260521_105648.jpg",
+    "images/20260521_101429.jpg",
+    "images/20260521_120550.jpg",
     "content/posts/2026-05-20.md",
     "images/20260520_183944.jpg",
-    "images/20260519_102248 1.jpg",
-    "images/20260519_102248.jpg",
-    "images/20180407_052734.jpg",
-    "images/20260520_201240.jpg",
     "Untitled.md",
     "content/posts/2026-05-03.md",
     "content/posts/2026-05-19.md",
     "obsidian_template/post.md",
     "themes/FeelIt/README.md",
     "Untitled.base",
-    "20180407_052734.jpg",
     "content/posts/2026-02-15.md",
     "content/posts/2026-03-24.md",
-    "images/20260204_001643.jpg",
     "public/posts/page/1/index.html",
     "public/posts/page/1",
     "public/posts/2026-02-15/index.html",
@@ -222,9 +225,7 @@
     "public/posts/2026-02-15",
     "public/posts",
     "public/lib/clipboard/clipboard.min.js",
-    "public/svg/loading.min.svg",
     "content/posts/test.md",
-    "public/posts/Ok!.md",
-    "public/images/20260204_001643.jpg"
+    "public/posts/Ok!.md"
   ]
 }

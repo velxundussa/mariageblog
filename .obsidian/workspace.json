@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-05-21.md",
+                "file": "content/posts/2026-05-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-21"
+              "title": "2026-05-22"
             }
           }
         ]
@@ -194,20 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9aa55c7d14b6e860",
+  "active": "b3e6f94eb82015a2",
   "lastOpenFiles": [
-    "images/20260521_100250.jpg",
-    "images/20260521_082053.jpg",
+    "images/avion hiroshima.jpg",
+    "images/hiroshima resto soir.jpg",
+    "images/chateau hiroshima.jpg",
+    "images/dome atomique.jpg",
+    "images/hiroshima soir.jpg",
+    "images/muse paix.jpg",
+    "images/okonomiyaki.jpg",
+    "images/resto gyoza.jpg",
+    "images/rue jour hiroshima.jpg",
+    "images/pokemon hiroshima.jpg",
+    "Untitled 1.base",
+    "content/posts/2026-05-22.md",
     "content/posts/2026-05-21.md",
-    "images/20260521_081907.jpg",
-    "images/20260520_231915.jpg",
-    "images/20260521_160229.jpg",
-    "images/20260521_113204.jpg",
-    "images/20260521_105648.jpg",
-    "images/20260521_101429.jpg",
-    "images/20260521_120550.jpg",
+    "images/20260521_100250.jpg",
     "content/posts/2026-05-20.md",
-    "images/20260520_183944.jpg",
     "Untitled.md",
     "content/posts/2026-05-03.md",
     "content/posts/2026-05-19.md",
@@ -224,7 +227,6 @@
     "public/posts/index.html",
     "public/posts/2026-02-15",
     "public/posts",
-    "public/lib/clipboard/clipboard.min.js",
     "content/posts/test.md",
     "public/posts/Ok!.md"
   ]

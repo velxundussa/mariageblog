@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-05-23.md",
+                "file": "content/posts/2026-05-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-23"
+              "title": "2026-05-24"
             }
           }
         ],
@@ -207,20 +207,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb13d856e8822c21",
+  "active": "9aa55c7d14b6e860",
   "lastOpenFiles": [
+    "images/himeji/bento train.jpg",
+    "images/himeji/chateau himeji 2.jpg",
+    "images/himeji/chat4eau himeji.jpg",
+    "images/himeji/mel convoyeur.jpg",
+    "images/himeji/himeji nuit.jpg",
+    "images/himeji/hugo convoyeur.jpg",
+    "images/himeji",
+    "content/posts/2026-05-23.md",
+    "content/posts/2026-05-24.md",
     "images/miyajima/bic camera.jpg",
     "images/miyajima/mc do.jpg",
     "images/miyajima/Miyajima vue de haut.jpg",
     "images/miyajima/Miyajima myazaki.jpg",
     "images/miyajima/Miyajima rue citadine.jpg",
-    "images/miyajima/Miyajima erable.jpg",
-    "images/miyajima/Mel metro.jpg",
-    "images/miyajima/Miyajima temple eau.jpg",
-    "images/miyajima/Miyajima cerf.jpg",
-    "images/miyajima/Miyajima tenple priere.jpg",
-    "images/miyajima/Miyajima temple et torii.jpg",
-    "content/posts/2026-05-23.md",
     "images/miyajima",
     "content/posts/2026-05-22.md",
     "Untitled 1.base",
@@ -240,7 +242,6 @@
     "public/posts/page",
     "public/posts/index.xml",
     "public/posts/index.html",
-    "public/posts/2026-02-15",
     "content/posts/test.md",
     "public/posts/Ok!.md"
   ]

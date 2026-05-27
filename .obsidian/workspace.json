@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-05-24.md",
+                "file": "content/posts/2026-05-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-24"
-            }
-          },
-          {
-            "id": "eb13d856e8822c21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2026-05-23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-23"
+              "title": "2026-05-26"
             }
           }
         ]
@@ -210,20 +196,23 @@
   },
   "active": "b3e6f94eb82015a2",
   "lastOpenFiles": [
-    "images/20180407_052734.jpg",
+    "images/kinosaki 2/onsen privé 2.jpg",
+    "images/kinosaki 2/souper onsen2.jpg",
+    "images/kinosaki 1/burger.jpg",
+    "images/kinosaki 2/ceremonie the.jpg",
+    "images/kinosaki 2/chambre onsen 2.jpg",
+    "images/kinosaki 2/yukata 2.jpg",
+    "images/kinosaki 2/bain de pieds.jpg",
+    "images/kinosaki 2/kinosaki temple.jpg",
+    "images/kinosaki 2/oeuf.jpg",
+    "images/kinosaki 2/ponts kinosaki.jpg",
+    "images/kinosaki 2/rioken 1.jpg",
+    "images/kinosaki 2",
+    "content/posts/2026-05-26.md",
+    "images/kinosaki 1",
     "content/posts/2026-05-23.md",
     "content/posts/2026-05-24.md",
-    "images/himeji/bento train.jpg",
-    "images/himeji/chateau himeji 2.jpg",
-    "images/himeji/chat4eau himeji.jpg",
-    "images/himeji/mel convoyeur.jpg",
-    "images/himeji/himeji nuit.jpg",
-    "images/himeji/hugo convoyeur.jpg",
     "images/himeji",
-    "images/miyajima/bic camera.jpg",
-    "images/miyajima/mc do.jpg",
-    "images/miyajima/Miyajima vue de haut.jpg",
-    "images/miyajima/Miyajima myazaki.jpg",
     "images/miyajima",
     "content/posts/2026-05-22.md",
     "Untitled 1.base",
@@ -241,8 +230,6 @@
     "public/posts/page/1",
     "public/posts/2026-02-15/index.html",
     "public/posts/page",
-    "public/posts/index.xml",
-    "public/posts/index.html",
     "content/posts/test.md",
     "public/posts/Ok!.md"
   ]

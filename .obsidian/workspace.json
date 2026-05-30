@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-05-28.md",
+                "file": "content/posts/2026-05-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-28"
+              "title": "2026-05-29"
             }
           }
         ]
@@ -194,24 +194,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3e6f94eb82015a2",
+  "active": "9aa55c7d14b6e860",
   "lastOpenFiles": [
+    "images/Kyoto 1/Kyoto 2/curry.jpg",
+    "images/Kyoto 1/Kyoto 2/nintendo dehors1.jpg",
+    "images/Kyoto 1/Kyoto 2/boutique artwork manga.jpg",
+    "images/Kyoto 1/Kyoto 2/creme glacee.jpg",
+    "images/Kyoto 1/Kyoto 2/dumpling soup.jpg",
+    "images/Kyoto 1/Kyoto 2/market.jpg",
+    "images/Kyoto 1/Kyoto 2/nintendo dehors2.jpg",
+    "images/Kyoto 1/Kyoto 2/nintendo museum 1.jpg",
+    "images/Kyoto 1/Kyoto 2/nintendo museum 2.jpg",
+    "images/Kyoto 1/Kyoto 2/tokyo jours.jpg",
+    "images/Kyoto 1/Kyoto 2/boutique mangaka popuo.jpg",
+    "images/Kyoto 1/Kyoto 2",
+    "content/posts/2026-05-28.md",
+    "content/posts/2026-05-29.md",
+    "().md",
     "content/posts/2026-05-21.md",
     "content/posts/2026-05-20.md",
-    "content/posts/2026-05-28.md",
-    "images/Kyoto 1/temple kyoto nuit 1.jpg",
-    "images/Kyoto 1/kinosaki dejeuner.jpg",
-    "images/Kyoto 1/kinosaki derniere photo.jpg",
-    "images/Kyoto 1/appart kyoto.jpg",
-    "images/Kyoto 1/kyoto jardin interieur.jpg",
-    "images/Kyoto 1/pfk.jpg",
-    "images/Kyoto 1/photo sumo.jpg",
-    "images/Kyoto 1/souper sumo.jpg",
     "images/Kyoto 1",
     "content/posts/2026-05-24.md",
     "content/posts/2026-05-26.md",
-    "images/kinosaki 2/onsen privé 2.jpg",
-    "images/kinosaki 2/souper onsen2.jpg",
     "images/kinosaki 2",
     "images/kinosaki 1",
     "content/posts/2026-05-23.md",
@@ -229,7 +233,6 @@
     "content/posts/2026-03-24.md",
     "public/posts/page/1/index.html",
     "public/posts/page/1",
-    "public/posts/2026-02-15/index.html",
     "content/posts/test.md",
     "public/posts/Ok!.md"
   ]

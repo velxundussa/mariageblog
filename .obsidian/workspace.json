@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-05-31.md",
+                "file": "content/posts/2026-05-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-31"
+              "title": "2026-05-27"
             }
           }
         ]
@@ -194,8 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9aa55c7d14b6e860",
+  "active": "b3e6f94eb82015a2",
   "lastOpenFiles": [
+    "content/posts/2026-05-26.md",
+    "content/posts/2026-05-24.md",
+    "content/posts/2026-05-23.md",
+    "content/posts/2026-05-22.md",
+    "content/posts/2026-05-21.md",
+    "content/posts/2026-05-20.md",
+    "content/posts/2026-05-19.md",
+    "content/posts/2026-05-31.md",
     "images/Osaka/Osaka 1/lexus.jpg",
     "images/Osaka/Osaka 1/osaka nuit.jpg",
     "images/Osaka/Osaka 1/chambre hotel.jpg",
@@ -206,32 +214,23 @@
     "images/Osaka/Osaka 1/muse mange 2.jpg",
     "images/Osaka/Osaka 1/omurice ok.jpg",
     "images/Osaka/Osaka 1/osaka arrivee.jpg",
-    "images/Osaka/Osaka 1/osaka jours foule.jpg",
     "images/Osaka/Osaka 1",
     "images/Osaka",
     "content/posts/2026-05-30.md",
-    "content/posts/2026-05-31.md",
-    "content/posts/2026-05-26.md",
-    "content/posts/2026-05-24.md",
-    "content/posts/2026-05-28.md",
+    "content/posts/2026-05-27.md",
     "content/posts/2026-05-29.md",
     "content/posts/2026-05-03.md",
-    "content/posts/2026-05-20.md",
     "images/Kyoto 1/Untitled.canvas",
     "images/Kyoto 1/Kyoto 3",
     "images/Kyoto 1/Kyoto 2",
     "().md",
-    "content/posts/2026-05-21.md",
     "images/Kyoto 1",
     "images/kinosaki 2",
     "images/kinosaki 1",
-    "content/posts/2026-05-23.md",
     "images/himeji",
     "images/miyajima",
-    "content/posts/2026-05-22.md",
     "Untitled 1.base",
     "Untitled.md",
-    "content/posts/2026-05-19.md",
     "obsidian_template/post.md",
     "themes/FeelIt/README.md",
     "content/posts/2026-02-15.md",

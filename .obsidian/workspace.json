@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-05-30.md",
+                "file": "content/posts/2026-05-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-30"
+              "title": "2026-05-31"
             }
           }
         ]
@@ -194,8 +194,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3e6f94eb82015a2",
+  "active": "9aa55c7d14b6e860",
   "lastOpenFiles": [
+    "images/Osaka/Osaka 2/akane 2.jpg",
+    "images/Osaka/Osaka 2/boeuf wagu.jpg",
+    "images/Osaka/Osaka 2/miracle world 1.jpg",
+    "images/Osaka/Osaka 2/miracle world 2.jpg",
+    "images/Osaka/Osaka 2/osaka jours.jpg",
+    "images/Osaka/Osaka 2/osaka nuit.jpg",
+    "images/Osaka/Osaka 2/standing bar.jpg",
+    "images/Osaka/Osaka 2/weird arcade.jpg",
+    "images/Osaka/Osaka 2/akane 1.jpg",
+    "images/Osaka/Osaka 2/dontonburi 1.jpg",
+    "images/Osaka/Osaka 2/dontonburi 2.jpg",
+    "images/Osaka/Osaka 2",
+    "content/posts/2026-05-30.md",
+    "content/posts/2026-05-31.md",
     "content/posts/2026-05-29.md",
     "content/posts/2026-05-28.md",
     "content/posts/2026-05-27.md",
@@ -206,17 +220,6 @@
     "content/posts/2026-05-21.md",
     "content/posts/2026-05-20.md",
     "content/posts/2026-05-19.md",
-    "content/posts/2026-05-30.md",
-    "images/Osaka/Osaka 1/lexus.jpg",
-    "images/Osaka/Osaka 1/osaka nuit.jpg",
-    "images/Osaka/Osaka 1/chambre hotel.jpg",
-    "images/Osaka/Osaka 1/cinema 1.jpg",
-    "images/Osaka/Osaka 1/cinema 2.jpg",
-    "images/Osaka/Osaka 1/hep five.jpg",
-    "images/Osaka/Osaka 1/muse manga 1.jpg",
-    "images/Osaka/Osaka 1/muse mange 2.jpg",
-    "images/Osaka/Osaka 1/omurice ok.jpg",
-    "images/Osaka/Osaka 1/osaka arrivee.jpg",
     "images/Osaka/Osaka 1",
     "images/Osaka",
     "content/posts/2026-05-03.md",
@@ -229,7 +232,6 @@
     "images/kinosaki 1",
     "images/himeji",
     "images/miyajima",
-    "Untitled 1.base",
     "Untitled.md",
     "obsidian_template/post.md",
     "themes/FeelIt/README.md",

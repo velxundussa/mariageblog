@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-06-01.md",
+                "file": "content/posts/2026-06-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-01"
+              "title": "2026-06-02"
             }
           }
         ]
@@ -196,19 +196,22 @@
   },
   "active": "b3e6f94eb82015a2",
   "lastOpenFiles": [
-    "content/posts/2026-05-31.md",
+    "images/Osaka/Osaka 4/nintendo store.jpg",
+    "content/posts/2026-06-02.md",
+    "images/Osaka/Osaka 4/aquarium 2.jpg",
+    "images/Osaka/Osaka 4/aquarium 1.jpg",
+    "images/Osaka/Osaka 4/aquarium 3.jpg",
+    "images/Osaka/Osaka 4/aquarium 4.jpg",
+    "images/Osaka/Osaka 4/aquarium 5.jpg",
+    "images/Osaka/Osaka 4/aquarium en tete.jpg",
+    "images/Osaka/Osaka 4/aquarium food.jpg",
+    "images/Osaka/Osaka 4/diner.jpg",
+    "images/Osaka/Osaka 4/karaoke 1.jpg",
+    "images/Osaka/Osaka 4/karaoke 2.jpg",
+    "images/Osaka/Osaka 4",
     "content/posts/2026-06-01.md",
-    "images/Osaka/Osaka 3/izakaya.jpg",
-    "images/Osaka/Osaka 3/mochis.jpg",
-    "images/Osaka/Osaka 3/zoo 2.jpg",
-    "images/Osaka/Osaka 3/dare animal.jpg",
-    "images/Osaka/Osaka 3/rue vintage.jpg",
-    "images/Osaka/Osaka 3/zoo1.jpg",
+    "content/posts/2026-05-31.md",
     "images/Osaka/Osaka 3",
-    "images/Osaka/Osaka 2/akane 2.jpg",
-    "images/Osaka/Osaka 2/boeuf wagu.jpg",
-    "images/Osaka/Osaka 2/miracle world 1.jpg",
-    "images/Osaka/Osaka 2/miracle world 2.jpg",
     "images/Osaka/Osaka 2",
     "content/posts/2026-05-30.md",
     "content/posts/2026-05-29.md",
@@ -231,7 +234,6 @@
     "images/Kyoto 1",
     "images/kinosaki 2",
     "images/kinosaki 1",
-    "images/himeji",
     "Untitled.md",
     "obsidian_template/post.md",
     "themes/FeelIt/README.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-06-02.md",
+                "file": "content/posts/2026-06-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-02"
+              "title": "2026-06-03"
             }
           }
         ]
@@ -196,18 +196,19 @@
   },
   "active": "b3e6f94eb82015a2",
   "lastOpenFiles": [
-    "images/Osaka/Osaka 4/nintendo store.jpg",
     "content/posts/2026-06-02.md",
-    "images/Osaka/Osaka 4/aquarium 2.jpg",
     "images/Osaka/Osaka 4/aquarium 1.jpg",
+    "images/Osaka/Osaka 4/nintendo store.jpg",
+    "content/posts/2026-06-03.md",
+    "images/Osaka/Osaka 5/musee du sake en tete.jpg",
+    "images/Osaka/Osaka 5/osaka jour.jpg",
+    "images/Osaka/Osaka 5/monster hunter.jpg",
+    "images/Osaka/Osaka 5/monster hunter food.jpg",
+    "images/Osaka/Osaka 5/musee sake 2.jpg",
+    "images/Osaka/Osaka 5/pokemon center.jpg",
+    "images/Osaka/Osaka 5",
+    "images/Osaka/Osaka 4/aquarium 2.jpg",
     "images/Osaka/Osaka 4/aquarium 3.jpg",
-    "images/Osaka/Osaka 4/aquarium 4.jpg",
-    "images/Osaka/Osaka 4/aquarium 5.jpg",
-    "images/Osaka/Osaka 4/aquarium en tete.jpg",
-    "images/Osaka/Osaka 4/aquarium food.jpg",
-    "images/Osaka/Osaka 4/diner.jpg",
-    "images/Osaka/Osaka 4/karaoke 1.jpg",
-    "images/Osaka/Osaka 4/karaoke 2.jpg",
     "images/Osaka/Osaka 4",
     "content/posts/2026-06-01.md",
     "content/posts/2026-05-31.md",
@@ -233,7 +234,6 @@
     "().md",
     "images/Kyoto 1",
     "images/kinosaki 2",
-    "images/kinosaki 1",
     "Untitled.md",
     "obsidian_template/post.md",
     "themes/FeelIt/README.md",

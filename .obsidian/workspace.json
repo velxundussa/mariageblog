@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-06-04.md",
+                "file": "content/posts/2026-06-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-04"
+              "title": "2026-06-05"
             }
           }
         ]
@@ -196,22 +196,25 @@
   },
   "active": "9aa55c7d14b6e860",
   "lastOpenFiles": [
+    "images/Hakone/Hakone 1/ekiban .jpg",
+    "images/Hakone/Hakone 1/hakone danger rue.jpg",
+    "images/Hakone/Hakone 1/hakone ville.jpg",
+    "images/Hakone/Hakone 1/rioken.jpg",
+    "images/Hakone/Hakone 1/hakone soir en tete.jpg",
+    "images/Hakone/Hakone 1/hakone train.jpg",
+    "images/Hakone/Hakone 1/souper boeuf.jpg",
+    "images/Hakone/Hakone 1",
+    "images/Hakone",
+    "content/posts/2026-06-04.md",
+    "content/posts/2026-06-05.md",
     "images/Osaka/Osaka 6/dare chateau imperial.jpg",
     "images/Osaka/Osaka 6/usj fin.jpg",
     "images/Osaka/Osaka 6/mario kart 1.jpg",
     "images/Osaka/Osaka 6/mario kart 2.jpg",
-    "images/Osaka/Osaka 6/usj dinosaure.jpg",
-    "images/Osaka/Osaka 6/usj en tete.jpg",
-    "images/Osaka/Osaka 6/usj file d attente infinie.jpg",
-    "images/Osaka/Osaka 6/usj harry potter arrivee.jpg",
-    "images/Osaka/Osaka 6/usj harry potter chateau.jpg",
-    "images/Osaka/Osaka 6/usj parade.jpg",
-    "images/Osaka/Osaka 6/toad lunch 1.jpg",
     "images/Osaka/Osaka 6",
     "content/posts/2026-06-03.md",
     "content/posts/2026-06-01.md",
     "content/posts/2026-06-02.md",
-    "content/posts/2026-06-04.md",
     "content/posts/2026-05-28.md",
     "content/posts/2026-05-29.md",
     "content/posts/2026-05-30.md",
@@ -233,15 +236,12 @@
     "content/posts/2026-05-03.md",
     "images/Kyoto 1/Untitled.canvas",
     "images/Kyoto 1/Kyoto 3",
-    "images/Kyoto 1/Kyoto 2",
     "().md",
-    "images/Kyoto 1",
     "Untitled.md",
     "obsidian_template/post.md",
     "themes/FeelIt/README.md",
     "content/posts/2026-02-15.md",
     "content/posts/2026-03-24.md",
-    "content/posts/test.md",
-    "public/posts/Ok!.md"
+    "content/posts/test.md"
   ]
 }

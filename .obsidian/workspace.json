@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-06-06.md",
+                "file": "content/posts/2026-06-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-06"
+              "title": "2026-06-07"
             }
           }
         ]
@@ -196,23 +196,26 @@
   },
   "active": "b3e6f94eb82015a2",
   "lastOpenFiles": [
-    "images/Hakone/Hakone 2/20260606_153909.jpg",
-    "images/Hakone/Hakone 2/musée 1.jpg",
-    "images/Hakone/Hakone 2/musée 2.jpg",
-    "images/Hakone/Hakone 2/hakone bateau.jpg",
-    "images/Hakone/Hakone 2/hakone fumee.jpg",
-    "images/Hakone/Hakone 2/hakone oeuf.jpg",
-    "images/Hakone/Hakone 2/hakone oshi no ko.jpg",
-    "images/Hakone/Hakone 2/hakone paysage cable.jpg",
-    "images/Hakone/Hakone 2/haokne en tete.jpg",
-    "images/Hakone/Hakone 2/tokyo chambre.jpg",
-    "images/Hakone/Hakone 2/tokyo indien.jpg",
-    "images/Hakone/Hakone 2",
-    "content/posts/2026-06-05.md",
+    "images/Tokyo/Tokyo-Koto 1/smallworld1.jpg",
+    "content/posts/2026-06-07.md",
     "content/posts/2026-06-06.md",
+    "images/Tokyo/Tokyo-Koto 1/gundam1.jpg",
+    "images/Tokyo/Tokyo-Koto 1/smallworld2.jpg",
+    "images/Tokyo/Tokyo-Koto 1/teamlab1.jpg",
+    "images/Tokyo/Tokyo-Koto 1/teamlab2.jpg",
+    "images/Tokyo/Tokyo-Koto 1/brique jaune.jpg",
+    "images/Tokyo/Tokyo-Koto 1/en tete.jpg",
+    "images/Tokyo/Tokyo-Koto 1/gundam2.jpg",
+    "images/Tokyo/Tokyo-Koto 1/smallworld3.jpg",
+    "images/Tokyo/Tokyo-Koto 1/teamlab 3.jpg",
+    "images/Tokyo/Tokyo-Koto 1",
+    "images/Tokyo",
+    "images/Untitled.md",
+    "content/posts/2026-06-04.md",
+    "content/posts/2026-06-05.md",
+    "images/Hakone/Hakone 2",
     "images/Hakone/Hakone 1",
     "images/Hakone",
-    "content/posts/2026-06-04.md",
     "images/Osaka/Osaka 6",
     "content/posts/2026-06-03.md",
     "content/posts/2026-06-01.md",
@@ -233,15 +236,11 @@
     "content/posts/2026-05-21.md",
     "content/posts/2026-05-20.md",
     "content/posts/2026-05-19.md",
-    "images/Osaka/Osaka 1",
-    "images/Osaka",
     "content/posts/2026-05-03.md",
     "images/Kyoto 1/Untitled.canvas",
     "().md",
     "Untitled.md",
     "obsidian_template/post.md",
-    "themes/FeelIt/README.md",
-    "content/posts/2026-02-15.md",
-    "content/posts/2026-03-24.md"
+    "themes/FeelIt/README.md"
   ]
 }

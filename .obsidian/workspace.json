@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "57beb29b339a4706",
+        "id": "c9f262ab91b8f586",
         "type": "tabs",
         "children": [
           {
-            "id": "b3e6f94eb82015a2",
+            "id": "0a5571ea39eebc6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-06-08.md",
+                "file": "content/posts/2026-06-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-08"
+              "title": "2026-06-09"
             }
           }
         ]
@@ -194,22 +194,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3e6f94eb82015a2",
+  "active": "9aa55c7d14b6e860",
   "lastOpenFiles": [
-    "images/Tokyo/Tokyo Pokepark/pokepark final.jpg",
-    "images/Tokyo/Tokyo Pokepark/chambre hotel.jpg",
-    "images/Tokyo/Tokyo Pokepark/hotel disney.jpg",
-    "images/Tokyo/Tokyo Pokepark/hugo tyranitar.jpg",
-    "images/Tokyo/Tokyo Pokepark/maneige.jpg",
-    "images/Tokyo/Tokyo Pokepark/pika pika spark.jpg",
-    "images/Tokyo/Tokyo Pokepark/rencontre pika evee.jpg",
-    "images/Tokyo/Tokyo Pokepark/defi 2.jpg",
-    "images/Tokyo/Tokyo Pokepark/fontaine ville.jpg",
-    "images/Tokyo/Tokyo Pokepark/latte.jpg",
-    "images/Tokyo/Tokyo Pokepark/parade.jpg",
-    "content/posts/2026-06-07.md",
-    "content/posts/2026-06-06.md",
+    "images/Tokyo/Tokyo Disney Sea/coin aquatique wow.jpg",
+    "images/Tokyo/Tokyo Disney Sea/leonardo astronomie.jpg",
+    "images/Tokyo/Tokyo Disney Sea/leonardo tour.jpg",
+    "images/Tokyo/Tokyo Disney Sea/coin sinbad.jpg",
+    "images/Tokyo/Tokyo Disney Sea/dejeuner.jpg",
+    "images/Tokyo/Tokyo Disney Sea/details decors.jpg",
+    "images/Tokyo/Tokyo Disney Sea/jule vernes 1.jpg",
+    "images/Tokyo/Tokyo Disney Sea/jule vernes 2.jpg",
+    "images/Tokyo/Tokyo Disney Sea/jules verne 3.jpg",
+    "images/Tokyo/Tokyo Disney Sea/paysage entree.jpg",
+    "images/Tokyo/Tokyo Disney Sea",
     "content/posts/2026-06-08.md",
+    "content/posts/2026-06-09.md",
+    "content/posts/2026-06-07.md",
+    "content/posts/2026-05-03.md",
+    "images/Tokyo/Tokyo Pokepark/pokepark final.jpg",
+    "content/posts/2026-06-06.md",
     "images/Tokyo/Tokyo Pokepark",
     "images/Tokyo/Tokyo-Koto 1",
     "images/Tokyo",
@@ -229,7 +232,6 @@
     "content/posts/2026-05-31.md",
     "images/Osaka/Osaka 5",
     "images/Osaka/Osaka 4",
-    "images/Osaka/Osaka 3",
     "content/posts/2026-05-27.md",
     "content/posts/2026-05-26.md",
     "content/posts/2026-05-24.md",
@@ -238,10 +240,8 @@
     "content/posts/2026-05-21.md",
     "content/posts/2026-05-20.md",
     "content/posts/2026-05-19.md",
-    "content/posts/2026-05-03.md",
     "images/Kyoto 1/Untitled.canvas",
     "().md",
-    "Untitled.md",
-    "obsidian_template/post.md"
+    "Untitled.md"
   ]
 }

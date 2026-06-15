@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-06-11.md",
+                "file": "content/posts/2026-06-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-11"
+              "title": "2026-06-12"
             }
           }
         ]
@@ -196,20 +196,22 @@
   },
   "active": "9aa55c7d14b6e860",
   "lastOpenFiles": [
+    "images/Tokyo/Tokyo Shinjuku 2/arcade.jpg",
+    "images/Tokyo/Tokyo Shinjuku 2/ARCADE 2.jpg",
+    "images/Tokyo/Tokyo Shinjuku 2/diner miam.jpg",
+    "images/Tokyo/Tokyo Shinjuku 2/golden gai.jpg",
+    "images/Tokyo/Tokyo Shinjuku 2/shinjuku en tete.jpg",
+    "images/Tokyo/Tokyo Shinjuku 2",
+    "content/posts/2026-06-11.md",
+    "content/posts/2026-06-12.md",
     "images/Tokyo/Tokyo Shinjuku 1/cafe.jpg",
     "images/Tokyo/Tokyo Shinjuku 1/chambre.jpg",
     "images/Tokyo/Tokyo Shinjuku 1/rue.jpg",
     "images/Tokyo/Tokyo Shinjuku 1/centre dachat.jpg",
     "images/Tokyo/Tokyo Shinjuku 1/dessert.jpg",
     "images/Tokyo/Tokyo Shinjuku 1/diner.jpg",
-    "images/Tokyo/Tokyo Shinjuku 1/ff decors.jpg",
-    "images/Tokyo/Tokyo Shinjuku 1/pharmacie.jpg",
     "images/Tokyo/Tokyo Shinjuku 1",
     "content/posts/2026-06-10.md",
-    "content/posts/2026-06-11.md",
-    "images/Tokyo/Tokyo Disney Land/bouffe.jpg",
-    "images/Tokyo/Tokyo Disney Land/chateau cendrillon.jpg",
-    "images/Tokyo/Tokyo Disney Land/en tete.jpg",
     "images/Tokyo/Tokyo Disney Land",
     "content/posts/2026-06-07.md",
     "content/posts/2026-06-08.md",
@@ -226,7 +228,6 @@
     "images/Hakone/Hakone 2",
     "images/Hakone/Hakone 1",
     "images/Hakone",
-    "images/Osaka/Osaka 6",
     "content/posts/2026-06-03.md",
     "content/posts/2026-06-01.md",
     "content/posts/2026-06-02.md",
@@ -241,7 +242,6 @@
     "content/posts/2026-05-22.md",
     "content/posts/2026-05-21.md",
     "content/posts/2026-05-20.md",
-    "content/posts/2026-05-19.md",
     "images/Kyoto 1/Untitled.canvas"
   ]
 }

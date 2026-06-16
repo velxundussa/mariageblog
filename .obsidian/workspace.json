@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-06-12.md",
+                "file": "content/posts/2026-06-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-12"
+              "title": "2026-06-13"
             }
           }
         ]
@@ -194,22 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9aa55c7d14b6e860",
+  "active": "0a5571ea39eebc6b",
   "lastOpenFiles": [
-    "images/Tokyo/Tokyo Shinjuku 2/arcade.jpg",
-    "images/Tokyo/Tokyo Shinjuku 2/ARCADE 2.jpg",
-    "images/Tokyo/Tokyo Shinjuku 2/diner miam.jpg",
-    "images/Tokyo/Tokyo Shinjuku 2/golden gai.jpg",
-    "images/Tokyo/Tokyo Shinjuku 2/shinjuku en tete.jpg",
-    "images/Tokyo/Tokyo Shinjuku 2",
+    "images/Tokyo/Tokyo Shinjuku 3/carpes.jpg",
+    "content/posts/2026-06-13.md",
+    "images/Tokyo/Tokyo Shinjuku 3/Shinjuku soir.jpg",
+    "images/Tokyo/Tokyo Shinjuku 3/cafe cute.jpg",
+    "images/Tokyo/Tokyo Shinjuku 3/chandelles.jpg",
+    "images/Tokyo/Tokyo Shinjuku 3/chateau.jpg",
+    "images/Tokyo/Tokyo Shinjuku 3/en tete.jpg",
+    "images/Tokyo/Tokyo Shinjuku 3/making off.jpg",
+    "images/Tokyo/Tokyo Shinjuku 3/niffleur.jpg",
+    "images/Tokyo/Tokyo Shinjuku 3/potions.jpg",
+    "images/Tokyo/Tokyo Shinjuku 3/salle commune.jpg",
+    "images/Tokyo/Tokyo Shinjuku 3",
     "content/posts/2026-06-11.md",
     "content/posts/2026-06-12.md",
-    "images/Tokyo/Tokyo Shinjuku 1/cafe.jpg",
-    "images/Tokyo/Tokyo Shinjuku 1/chambre.jpg",
-    "images/Tokyo/Tokyo Shinjuku 1/rue.jpg",
-    "images/Tokyo/Tokyo Shinjuku 1/centre dachat.jpg",
-    "images/Tokyo/Tokyo Shinjuku 1/dessert.jpg",
-    "images/Tokyo/Tokyo Shinjuku 1/diner.jpg",
+    "images/Tokyo/Tokyo Shinjuku 2",
     "images/Tokyo/Tokyo Shinjuku 1",
     "content/posts/2026-06-10.md",
     "images/Tokyo/Tokyo Disney Land",
@@ -227,7 +228,6 @@
     "content/posts/2026-06-05.md",
     "images/Hakone/Hakone 2",
     "images/Hakone/Hakone 1",
-    "images/Hakone",
     "content/posts/2026-06-03.md",
     "content/posts/2026-06-01.md",
     "content/posts/2026-06-02.md",
@@ -241,7 +241,6 @@
     "content/posts/2026-05-23.md",
     "content/posts/2026-05-22.md",
     "content/posts/2026-05-21.md",
-    "content/posts/2026-05-20.md",
     "images/Kyoto 1/Untitled.canvas"
   ]
 }
